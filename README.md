@@ -1,2 +1,2 @@
-# Currency-Converter-With-API
-Updated currency converter project with realtime online rates source. 
+# CurrencyConverter-Project
+WPF application programmed in C# .Net with SQL database.
